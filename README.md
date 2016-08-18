@@ -1,28 +1,13 @@
-# README
+# Samplify
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Built at the Monthly Music Hackathon at the Spotify headquarters, Samplify allows users to get 30 second previews of songs and quickly add the ones they like to their Spotify playlist.
 
-Things you may want to cover:
+The app was built using Rails, JavaScript, and Materialize.  Additional features include Spotify OAuth, which allows users to add songs directly to their Spotify account.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
-# spotify-search
-Users get 30 second previews of songs and can quickly add the ones they like to their Spotify playlist
-
+Team
+-----
+Katherine Broner,
+Samantha Holmes,
+Shawn O'Connor,
+Seth Goldman,
+Calvin Ieong,
